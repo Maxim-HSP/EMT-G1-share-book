@@ -113,6 +113,8 @@ OneNote Link：[https://1drv.ms/u/s!Akw-xSFTong6hHnA6eP-bcBxzMMz](https://1drv.m
 
 另一篇相关博客： [http://www.zhangxinxu.com/wordpress/2013/06/html5-history-api-pushstate-replacestate-ajax/](/ http://www.zhangxinxu.com/wordpress/2013/06/html5-history-api-pushstate-replacestate-ajax/)
 
+---
+
 # 杂项
 
 对个人有帮助或者有趣的内容  vol.1
