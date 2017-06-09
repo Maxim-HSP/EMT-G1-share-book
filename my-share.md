@@ -1,5 +1,7 @@
 **2017-06-09**
 
+Published by MaximHSP
+
 # English Learning Guidence - Phase 1
 
 **听**  -  精听比泛听有效，有效输入会抑制陌生输入
