@@ -115,7 +115,7 @@ OneNote Link：[https://1drv.ms/u/s!Akw-xSFTong6hHnA6eP-bcBxzMMz](https://1drv.m
 
 对个人有帮助或者有趣的内容  vol.1
 
-1. 国内软件修改库：
+* 国内软件修改库：
 
 > [http://www.zdfans.com/](http://www.zdfans.com/)  zd423，常规软件绿化
 >
@@ -126,6 +126,28 @@ OneNote Link：[https://1drv.ms/u/s!Akw-xSFTong6hHnA6eP-bcBxzMMz](https://1drv.m
 > [http://www.guofs.com/](http://www.guofs.com/)  独木成林
 >
 > [http://forum.portableappc.com/viewtopic.php?f=4&t=99&sid=00cfca58a4a056d52b9d62fbd1f1b7f0](https://www.gitbook.com/book/maxim-hsp/share-records-emt-g1/edit#)  PortableAppZ论坛，专注便携化
+
+* 专题系列视频推荐：
+
+> [http://space.bilibili.com/7349\#!/](http://space.bilibili.com/7349#!/)  史丹利工作室，“史丹利快报”系列是目前国内质量最高的游戏自媒体节目
+>
+> [https://space.bilibili.com/25453948\#!/](https://space.bilibili.com/25453948#!/)  脑放系列，目前我所知道的最接地气又能保证质量的专业耳机评测&科普视频
+>
+> [https://space.bilibili.com/3766866?from=search&seid=6339821269063541716\#!/](https://space.bilibili.com/3766866?from=search&seid=6339821269063541716#!/)  挺有名的一个民用科技设备评测媒体
+>
+> [https://space.bilibili.com/7369403\#!/](https://space.bilibili.com/7369403#!/)   龙斌大话电影系列力荐，龙叔的视角相对客观独特
+
+* 或许有用的其它网站
+
+> [https://www.zhihu.com/](https://www.zhihu.com/)   知乎
+>
+> [http://www.smzdm.com/](http://www.smzdm.com/)   什么值得买，俗称张大妈，买东西前逛一下绝对有收获
+>
+> [http://www.css3maker.com/](http://www.css3maker.com/#)  能够预览CSS效果及视图化调整
+
+* 或许好用的软件或者工具
+
+> 即兴
 
 
 
