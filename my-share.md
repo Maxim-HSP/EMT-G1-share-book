@@ -141,6 +141,12 @@ OneNote Link：[https://1drv.ms/u/s!Akw-xSFTong6hHnA6eP-bcBxzMMz](https://1drv.m
 >
 > [https://space.bilibili.com/7369403\#!/](https://space.bilibili.com/7369403#!/)   龙斌大话电影系列力荐，龙叔的视角相对客观独特
 
+* 电影推荐
+
+> [一个叫欧维的男人决定去死](https://movie.douban.com/subject/26628357/ "一个叫欧维的男人决定去死")  --  
+>
+> [https://movie.douban.com/subject/1292063/](https://movie.douban.com/subject/1292063/ "美丽人生 ")
+
 * 或许有用的其它网站
 
 > [https://www.zhihu.com/](https://www.zhihu.com/)   知乎
